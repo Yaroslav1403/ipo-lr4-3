@@ -8,4 +8,4 @@ for num in list_of_numbers:
     if num > 10:
         count += 1
 #Вывод результата
-print(f"Количество чисел, которые больше 10: {count}")
+print(f"Количество чисел, которые больше 10: {count}") 
